@@ -1,0 +1,14 @@
+{
+    "name": "kkt/messages",
+    "description": "kkt messages",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Burt",
+            "email": "hhtwfx@126.com"
+        }
+    ],
+    "minimum-stability": "RC",
+    "require": {}
+}
