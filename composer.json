@@ -11,8 +11,8 @@
     ],
     "require": {},
     "autoload": {
-        "psr-0":{
-            "Kkt\\Messages\\":""
+        "psr-4":{
+            "messages\\":"kkt/messages"
         }
     }
 }
