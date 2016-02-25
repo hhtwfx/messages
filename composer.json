@@ -9,6 +9,6 @@
             "email": "hhtwfx@126.com"
         }
     ],
-    "minimum-stability": "DEV",
+    "minimum-stability": "dev",
     "require": {}
 }
