@@ -9,5 +9,10 @@
             "email": "hhtwfx@126.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-0":{
+            "Kkt\\Messages":""
+        }
+    }
 }
