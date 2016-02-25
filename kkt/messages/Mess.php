@@ -1,21 +1,22 @@
 <?php
 
 
-namespace messages;
+namespace Messages;
 
 
 /**
  * @author Burt
  * @version 1.0
- * @created 25-¶þÔÂ-2016 16:35:03
+ * @created 25-ï¿½ï¿½ï¿½ï¿½-2016 17:37:57
  */
 class Mess
 {
 
-	private $m_Id;
+	private $d;
 
 	function __construct()
 	{
+            echo 'hi';
 	}
 
 	function __destruct()
@@ -24,11 +25,7 @@ class Mess
 
 
 
-	/**
-		 * 
-		 * @param get_id
-		 */
-	public function getId(int $get_id)
+	public function cc()
 	{
 	}
 
