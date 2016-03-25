@@ -2,8 +2,7 @@
 namespace Messages;
 /*
  *
-    http://www.cnblogs.com/txw1958/
-    CopyRight 2014 All Rights Reserved
+ *     
 */
 
 class WxMess extends AbstractMess

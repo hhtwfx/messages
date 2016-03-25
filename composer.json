@@ -9,10 +9,12 @@
             "email": "hhtwfx@126.com"
         }
     ],
-    "require": {},
+    "require": {
+        "thenbsp/wechat":"dev-master"        
+    },
     "autoload": {
         "psr-4":{
-            "Messages\\":"kkt/messages"
+            "Messages\\":"."
         }
     }
 }
