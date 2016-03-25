@@ -1,43 +1,31 @@
 <?php
-require_once ('MessFactory.php');
 
 namespace Messages;
 
-
-
-use Messages;
 /**
  * This class implements the operations to create concrete product objects.
  * @author Burt
  * @version 1.0
  * @created 03-三月-2016 0:07:42
  */
-class ConcreteFactory2 extends MessFactory
-{
+class ConcreteFactory2 extends MessFactory {
 
-	public function __construct()
-	{
-	}
+    public function __construct() {
+        
+    }
 
-	public function __destruct()
-	{
-	}
+    public function __destruct() {
+        
+    }
 
-	public function CreateProductA()
-	{
+    public function CreateProductA() {
 
-		//return new ProductA2();
+        //return new ProductA2();
+    }
 
+    public function CreateProductB() {
 
-	}
-
-	public function CreateProductB()
-	{
-
-		//return new ProductB2();
-
-
-	}
+        //return new ProductB2();
+    }
 
 }
-?>

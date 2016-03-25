@@ -1,8 +1,6 @@
 <?php
 
-
 namespace Messages;
-
 
 /**
  * 抽像消息类
@@ -10,16 +8,14 @@ namespace Messages;
  * @version 1.0
  * @created 03-三月-2016 0:07:41
  */
-abstract class AbstractMess
-{
+abstract class AbstractMess {
 
-	public function __construct()
-	{
-	}
+    public function __construct() {
+        
+    }
 
-	public function __destruct()
-	{
-	}
+    public function __destruct() {
+        
+    }
 
 }
-?>
